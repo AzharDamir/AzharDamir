@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AzharDamir
-- 👀 I’m interested in Software Engineer
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Spring Boot, JHipster
 
 <!---
